@@ -50,6 +50,7 @@ Folder | Task | Model
 08.compare_models | Probabilistic reversal learning task |  Simple and fictitious RL models
 09.debugging |  Memory Retention | Exponential decay model
 
+https://www.youtube.com/channel/UCC_MuugFOcI3SsrSE7y5Bug
 
 ### LICENSE
 
